@@ -1,7 +1,21 @@
 ---
 title: "Holy cow!"
+output: html_document
 ---
 
-### I have a webpage!
+
+
+### Add a link
 
 And I can put all kinds of stuff on it!
+
+link to my [about page](about.html) 
+^[what you want to name the link] (link)
+
+## Embed a picture: 
+
+should i be this for halloween? 
+<img src="./ag3911.github.io/ghostman.jpg" style="width:75%">
+^this is a relative path to a folder on your computer not necessarily in a folder in your R project
+^to the style part you can adjust size, orientation, etc
+
